@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Some of my interests
 
-You can use the [editor on GitHub](https://github.com/jasonkboise/jasonkboise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Jason Kuphaldt. I am a Computer Science major at Boise State University. I am also minoring in Japanses Studies.
+はじめまして！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my free time, I like to play video games, watch movies, listen to music, and watch anime. Listed below are some of my favorites of each!
 
-### Markdown
+- Favorite game: [Kingdom Hearts II](https://en.wikipedia.org/wiki/Kingdom_Hearts_II)
+- Favorite movie: [Whiplash](https://en.wikipedia.org/wiki/Whiplash_(2014_film))
+- Favorite album: [Saturation - Brockhampton](https://en.wikipedia.org/wiki/Saturation_(Brockhampton_album))
+- Favorite anime: [March comes in like a lion](https://en.wikipedia.org/wiki/March_Comes_in_Like_a_Lion)
+
+I also enjoy running, going to the gym, and skiing!
+
+### For future reference!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
